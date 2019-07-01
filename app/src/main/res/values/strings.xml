@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">POStypeApplicationForRestaurants</string>
+    <string name="networkConnectionServiceName" translatable="false">NetworkConnectionService</string>
+
+    <string name="main_btn_Network">Configure network</string>
+    <string name="main_btn_configMenu">Configure menu</string>
+    <string name="main_btn_CreateOrder">Create new order</string>
+    <string name="main_btn_ActiveOrders">Active orders</string>
+    <string name="main_btn_Archives">Sales history</string>
+    <string name="main_btn_Role">Change role</string>
+
+    <string name="main_btn_Role_alert">Changing role will cause app to restart!</string>
+
+
+    <string name="main_toast_Archives">You can\'t see the archives!</string>
+    <string name="main_toast_CreateOrder">You can\'t create a new order!"</string>
+    <string name="main_toast_ConfigMenu">You can\'t configure the menu!</string>
+    <string name="configMenu_toast_menu_not_found">Menu not found!</string>
+    <string name="configMenu_toast_menu_saved">Menu saved!</string>
+
+    <string name="roleManager_tv_top">Choose device role</string>
+    <string name="roleManager_btn_user">Waiter</string>
+    <string name="roleManager_btn_admin">Admin</string>
+    <string name="roleManager_btn_viewer">Viewer</string>
+
+    <string name="configMenu_data_MenuFileName" translatable="false">currentMenu.json</string>
+    <string name="configMenu_btn_save">Save current menu</string>
+    <string name="configMenu_back_pressed_menu_not_saved">Menu won\'t be saved!</string>
+
+    <string name="alert_edit_product_name">Edit product name:</string>
+    <string name="alert_edit_product_price">Edit price:</string>
+    <string name="alert_edit_category_name">Edit category name:</string>
+    <string name="alert_new_category_name">New category name:</string>
+    <string name="alert_new_product_name">New product name:</string>
+    <string name="alert_new_note">Enter a new note for this dish:</string>
+
+    <string name="ctx_cat_Edit">Edit category name</string>
+    <string name="ctx_cat_Remove">Delete category</string>
+    <string name="ctx_cat_AddDish">Add product</string>
+    <string name="ctx_cat_AddCat">Add category</string>
+    <string name="alert_are_you_sure">Are you sure?</string>
+
+    <string name="createOrder_btn_currentOrder">Go to current order</string>
+    <string name="createOrder_toast_added">Added </string>
+
+    <string name="createOrderEdit_tv_currentOrder">New order</string>
+    <string name="createOrderEdit_btn_endCurrentOrder">End ordering</string>
+
+    <string name="activeOrderEdit_btn_saveOrder">Save order</string>
+    <string name="activeOrderEdit_btn_deleteOrder">Delete order</string>
+
+    <string name="archives_btn_deleteOrder">Delete rows</string>
+
+    <string name="Network_btn_connect_to_service">Connect to service</string>
+    <string name="Network_service_not_registered">Service not registered</string>
+    <string name="Network_service_registered">Service registered</string>
+    <string name="Network_service_found">Service found!\nYou can now connect to it.</string>
+    <string name="Network_service_not_found">No service was found</string>
+    <string name="Network_connected_success">Connected to the server!</string>
+    <string name="Network_connected_failure">Failed to connect to the server!</string>
+
+
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">POStypeApplicationForRestaurants</string>
+
+    <string name="main_btn_Network">Konfiguruj połączenie</string>
+    <string name="main_btn_configMenu">Konfiguruj menu</string>
+    <string name="main_btn_CreateOrder">Stwórz nowe zamówienie</string>
+    <string name="main_btn_ActiveOrders">Lista aktywnych zamówień</string>
+    <string name="main_btn_Archives">Historia sprzedaży</string>
+    <string name="main_btn_Role">Zmień rolę urządzenia</string>
+
+    <string name="main_btn_Role_alert">Zmiana roli spowoduje restart aplikacji!</string>
+
+
+    <string name="main_toast_Archives">Nie możesz zobaczyć historii sprzedaży!</string>
+    <string name="main_toast_CreateOrder">Nie możesz stworzyć nowego zamówienia!"</string>
+    <string name="main_toast_ConfigMenu">Nie możesz konfigurować menu!</string>
+
+    <string name="roleManager_tv_top">Wybierz rolę urządzenia</string>
+    <string name="roleManager_btn_user">Kelner</string>
+    <string name="roleManager_btn_admin">Admin</string>
+    <string name="roleManager_btn_viewer">Obserwator</string>
+
+    <string name="configMenu_btn_save">Zapisz aktualne menu</string>
+    <string name="ctx_cat_Edit">Edytuj nazwę kategorii</string>
+    <string name="ctx_cat_Remove">Usuń kategorię</string>
+    <string name="ctx_cat_AddDish">Dodaj danie</string>
+    <string name="ctx_cat_AddCat">Dodaj kategorię</string>
+
+    <string name="createOrder_btn_currentOrder">Przejdź do aktualnego zamówienia</string>
+    <string name="createOrderEdit_tv_currentOrder">Aktualne zamówienie</string>
+    <string name="createOrderEdit_btn_endCurrentOrder">Zakończ zamówienie</string>
+
+    <string name="activeOrderEdit_btn_saveOrder">Zapisz zamówienie</string>
+    <string name="activeOrderEdit_btn_deleteOrder">Usuń zamówienie</string>
+
+    <string name="archives_btn_deleteOrder">Usuń krotki</string>
+    <string name="alert_edit_product_name">Zmień nazwę produktu:</string>
+    <string name="alert_edit_product_price">Zmień cenę produktu:</string>
+    <string name="alert_are_you_sure">Potwierdź operację.</string>
+    <string name="alert_edit_category_name">Zmień nazwę kategorii:</string>
+    <string name="alert_new_category_name">Nazwa nowej kategorii:</string>
+    <string name="alert_new_product_name">Nazwa nowego produktu:</string>
+    <string name="alert_new_note">Wprowadź notatkę:</string>
+    <string name="configMenu_toast_menu_not_found">Nie znaleziono menu!</string>
+    <string name="configMenu_toast_menu_saved">Zapisano menu!</string>
+    <string name="configMenu_back_pressed_menu_not_saved">Menu nie zostanie zapisane!</string>
+    <string name="Network_btn_connect_to_service">Połącz z systemem</string>
+    <string name="Network_service_not_registered">System niewidoczny</string>
+    <string name="Network_service_registered">System widoczny</string>
+    <string name="Network_service_found">Znaleziono system!\nMożesz się teraz z nim połączyć.</string>
+    <string name="Network_service_not_found">Nie znaleziono systemu.</string>
+    <string name="Network_connected_success">Połączono z serwerem!</string>
+    <string name="Network_connected_failure">Nie połączono z serwerem!</string>
+    <string name="createOrder_toast_added">"Dodano "</string>
+
+
+</resources>
